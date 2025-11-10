@@ -1,7 +1,7 @@
 # 🌐 Ananya Mohanty — Personal Portfolio
 
 🚀 **Live Demo:**  
-🔗 [Visit My Portfolio](https://my-portfolio-qx3sa6a2j-ananya-mohantys-projects.vercel.app/)
+🔗 [Visit My Portfolio](https://portfolio-1e07p6yvn-ananya-mohantys-projects.vercel.app/)
 
 ---
 
