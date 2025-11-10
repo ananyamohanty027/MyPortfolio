@@ -35,8 +35,8 @@ const LinkedInIcon = (props) => (
 
 export default function Home() {
   return (
-    <section className="grid gap-10 lg:grid-cols-2 items-center transition-colors duration-500">
-      <div>
+    <section className="grid gap-10 md:grid-cols-2 items-center transition-colors duration-500">
+      <div className="order-2 md:order-1">
         {/* Heading */}
         <motion.h1
           initial={{ x: -20, opacity: 0 }}
@@ -99,7 +99,7 @@ export default function Home() {
         initial={{ scale: 0.9, opacity: 0 }}
         animate={{ scale: 1, opacity: 1 }}
         transition={{ delay: 0.35, duration: 0.5 }}
-        className="relative flex items-center justify-center h-full min-h-[16rem] lg:min-h-[20rem] xl:min-h-[24rem]"
+        className="relative flex items-center justify-center h-full min-h-[16rem] lg:min-h-[20rem] xl:min-h-[24rem] order-1 md:order-2"
       >
         {/*
           This wrapper DIV creates the GLOW effect using box-shadow.

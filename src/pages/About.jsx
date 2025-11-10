@@ -87,7 +87,7 @@ export default function About() {
         variants={itemVariants}
         className="p-6 rounded-2xl border border-slate-100 dark:border-slate-800 
                    bg-white dark:bg-[#16181d]/50 backdrop-blur-sm shadow-sm
-                   flex flex-col gap-8 h-fit sticky top-24"
+                   flex flex-col gap-8 h-fit md:sticky md:top-24"
       >
         {/* Skills Section */}
         <div>
